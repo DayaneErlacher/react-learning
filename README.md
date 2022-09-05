@@ -3,11 +3,10 @@ Learning ReactJS with https://www.udemy.com/course/react-the-complete-guide-incl
 </h1>
 
 ## 💻 Projeto
-[🛠️ desenvolvimento]
+
+https://github.com/academind/react-complete-guide-code/tree/03-react-basics-working-with-components
 
 ## 🏁 Como começar
-
-1. 
 
 E é isso ✔
 
